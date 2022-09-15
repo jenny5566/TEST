@@ -1,0 +1,4 @@
+baseURL = 'https://jenny5566.github.io/'
+languageCode = "zh-tw"
+title = 'My New Hugo Site'
+theme = \"coyote\"
